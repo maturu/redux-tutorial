@@ -22,11 +22,16 @@
     "@babel/core": "^7.13.16",
     "@babel/preset-env": "^7.13.15",
     "@babel/preset-react": "^7.13.13",
+    "axios": "^0.21.1",
     "babel-loader": "^8.2.2",
     "babel-plugin-react-html-attrs": "^3.0.5",
     "redux": "^4.1.0",
+    "redux-logger": "^3.0.6",
     "webpack": "^5.35.1",
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "redux-thunk": "^2.3.0"
   }
 }
